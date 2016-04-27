@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/Piecewise3D.mm \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/Piecewise3D.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/Interpolation3D.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/Point3D.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N3Geometry.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkPiecewiseFunction.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkDataObject.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkObject.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkObjectBase.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkIndent.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkSystemIncludes.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkWin32Header.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkConfigure.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkABI.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkIOStream.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkType.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkOStreamWrapper.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkOStrStreamWrapper.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkSetGet.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkTimeStamp.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/VTKHeaders/vtkWeakPointerBase.h

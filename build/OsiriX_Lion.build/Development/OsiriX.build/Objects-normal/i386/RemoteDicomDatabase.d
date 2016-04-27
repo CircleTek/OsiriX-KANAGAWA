@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMNetwork/RemoteDicomDatabase.mm \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMNetwork/RemoteDicomDatabase.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/DicomDatabase.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N2ManagedDatabase.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/DicomDatabase+Routing.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/DicomDatabase+Clean.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N2Debug.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/NSFileManager+N2.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N2DirectoryEnumerator.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N2Connection.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/NSThread+N2.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/ThreadsManager.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/browserController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/BrowserController+Sources.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N2MutableUInteger.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/Notifications.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/DicomImage.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/DicomStudy.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/DicomSeries.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/DicomAlbum.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/dicomFile.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/NSManagedObject+N2.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMNetwork/DCMTKStoreSCU.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMNetwork/DICOMTLS.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/cocoahttpserver/DDKeychain.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/2D/ViewerController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/ROI/ROI.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/2D/MyPoint.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/OSI/OSIWindowController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMNetwork/DataNodeIdentifier.h

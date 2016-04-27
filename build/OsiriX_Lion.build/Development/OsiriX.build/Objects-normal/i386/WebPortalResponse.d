@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/Web/WebPortalResponse.mm \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/Web/WebPortalResponse.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/cocoahttpserver/HTTPResponse.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/Web/WebPortalConnection.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/cocoahttpserver/HTTPConnection.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/Web/WebPortalUser.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/Web/WebPortalConnection+Data.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/Web/WebPortalSession.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/Web/WebPortalDatabase.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N2ManagedDatabase.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/Web/WebPortal.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/cocoahttpserver/HTTPServer.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/NSString+N2.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/AppController.h \
+  Binaries/Growl.framework/Headers/Growl.h \
+  Binaries/Growl.framework/Headers/GrowlDefines.h \
+  Binaries/Growl.framework/Headers/GrowlApplicationBridge.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/Web/XMLRPCMethods.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N2XMLRPCConnection.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N2Connection.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/DicomStudy.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/DicomSeries.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/browserController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/BrowserController+Sources.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/DCM\ Framework/DCMAbstractSyntaxUID.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/NSManagedObject+N2.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N2Operators.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/NSUserDefaults+OsiriX.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/NSUserDefaultsController+OsiriX.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/NSUserDefaultsController+N2.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMNetwork/QueryController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMNetwork/QueryOutlineView.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/sourcesTableView.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/SFAuthorizationView+OsiriX.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/cocoahttpserver/AsyncSocket.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N2Debug.h

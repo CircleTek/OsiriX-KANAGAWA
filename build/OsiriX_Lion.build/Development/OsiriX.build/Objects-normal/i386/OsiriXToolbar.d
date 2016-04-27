@@ -1,0 +1,9 @@
+dependencies: \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/OsiriXToolbar.m \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/OsiriXToolbar.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/2D/ViewerController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/ROI/ROI.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/2D/MyPoint.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/OSI/OSIWindowController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/2D/ToolbarPanel.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/NSWindow+N2.h

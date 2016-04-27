@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/SRFlyThruAdapter.m \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/SRFlyThruAdapter.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/FlyThruAdapter.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/Camera.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/Point3D.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N3Geometry.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/Window3DController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/ColorTransferView.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/OpacityTransferView.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/2D/NSFullScreenWindow.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/OSI/OSIWindowController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/SRController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/2D/DCMPix.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/2D/ViewerController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/ROI/ROI.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/2D/MyPoint.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/FlyThruController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/FlyThru.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/Interpolation3D.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/QuicktimeExport.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/FlyThruStepsArrayController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/3D/SRView.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/WaitRendering.h

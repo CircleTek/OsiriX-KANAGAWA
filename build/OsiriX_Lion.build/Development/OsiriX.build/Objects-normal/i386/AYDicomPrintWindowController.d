@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/AYDicomPrint/AYDicomPrintWindowController.mm \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMNetwork/QueryController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMNetwork/QueryOutlineView.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/sourcesTableView.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/SFAuthorizationView+OsiriX.h \
+  AYDicomPrint/AYDicomPrintWindowController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/Preference\ Panes/AYDicomPrintPreferencePane/AYDicomPrintPref.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/NSFont_OpenGL/NSFont_OpenGL.h \
+  AYDicomPrint/AYNSImageToDicom.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/2D/ViewerController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/ROI/ROI.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/2D/MyPoint.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/OSI/OSIWindowController.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/2D/DCMView.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N3Geometry.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/2D/DCMPix.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/Notifications.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/OSI/OSIWindow.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N2OpenGLViewWithSplitsWindow.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/ThreadsManager.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/NSUserDefaults+OsiriX.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/GUI/NSUserDefaultsController+OsiriX.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/NSUserDefaultsController+N2.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N2Debug.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/DICOMFiles/AppController.h \
+  Binaries/Growl.framework/Headers/Growl.h \
+  Binaries/Growl.framework/Headers/GrowlDefines.h \
+  Binaries/Growl.framework/Headers/GrowlApplicationBridge.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/OsiriXClasses/Web/XMLRPCMethods.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N2XMLRPCConnection.h \
+  /Users/Tatsunidas/Desktop/OsiriX-KANAGAWA/nitrogen/Sources/N2Connection.h
